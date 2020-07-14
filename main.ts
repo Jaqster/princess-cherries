@@ -19,7 +19,7 @@ sprites.onOverlap(SpriteKindLegacy.Player, SpriteKindLegacy.Projectile, function
 let cherry: Sprite = null
 let asteroid: Sprite = null
 let Princess: Sprite = null
-scene.setBackgroundColor(6)
+scene.setBackgroundColor(5)
 Princess = sprites.create(img`
 . . . . . f f 4 4 f f . . . . . 
 . . . . f 5 4 5 5 4 5 f . . . . 
